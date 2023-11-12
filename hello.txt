@@ -1,5 +1,7 @@
 Hello! This is Maddie and I's test repository
 
+data<- read.csv("data.csv")
+data<- data + 2
 ___
 
 I want that in my file :)
